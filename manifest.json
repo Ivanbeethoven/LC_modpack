@@ -1,6 +1,6 @@
 {
     "name": "Modpackhxy",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/Ivanbeethoven/LC_modpack.git",
     "description": "This is a modpack for my buds",
     "dependencies": [
@@ -16,6 +16,7 @@
         "FlipMods-ReservedWalkieSlot-1.5.0",
         "AllToasters-SpectateEnemies-1.5.0",
         "Gony-Furru_Suits-1.3.3",
-        "AllToasters-SpectateEnemies-1.5.0"
+        "AllToasters-SpectateEnemies-1.5.0",
+        "x753-More_Suits-1.4.1"
     ]
 }
