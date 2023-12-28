@@ -1,8 +1,8 @@
 {
     "name": "Modpackhxy",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/Ivanbeethoven/LC_modpack.git",
-    "description": "This is a modpack for my buds",
+    "description": "安装后需要初始化 点击Webside进入主页查看详情",
     "dependencies": [
         "EggFriedRice-Lethal_Company_CN_Localization_Simplified_Chinese-1.1.0",
         "notnotnotswipez-MoreCompany-1.7.2",
